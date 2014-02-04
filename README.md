@@ -1,4 +1,4 @@
 git-training
 ============
 
-description
+description is not too descriptive
